@@ -1,13 +1,5 @@
-### Engineer, entrepreneur, investor, gamer. 
+:mortar_board: I am currently pursuing a Master's degree in Computer Science at the [University of Waterloo](https://uwaterloo.ca/computer-science/) in Waterloo, Canada under the supervision of [Prof. Jimmy Lin](https://cs.uwaterloo.ca/~jimmylin/). I am also a member of the [Data Systems Group](http://dsg.uwaterloo.ca/).
 
-Currently:   
-- Founder of Breakpoint Labs: Various projects in the cryptocurrency field  
-- Advisor @ Barakatech  
+:microscope: My research interests lie primarily in the intersection of deep learning and natural language processing. I am particularly interested in multilingual applications.
 
-Previously I've founded:  
-- Dawn of Crafting  
-- Mobile Monday Ankara  
-- Metu eSports Society  
-- Bunch of other failed companies and projects  
-
-~~I'm open to~~ I crave any and all sort of feedback for every aspect and decision of my life. Please tell me what I need to hear, increase my awareness and make me wiser. Links are over there <===
+:school_satchel: Previously, I graduated with a bachelor's degree in computer engineering from [Middle East Technical University](https://ceng.metu.edu.tr/) in Ankara, Turkey.

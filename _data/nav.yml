@@ -1,14 +1,17 @@
 - title: Home
   href: index.html
 
-- title: About
+- title: About Me
   href: about.html
+
+- title: Research
+  href: research.html
 
 - title: Blog
   href: list/posts.html
 
-- title: Quotes
-  href: quotes.html
+- title: Impossible List
+  href: impossible_list.html
 
-- title: Book Notes
-  href: book_notes.html
+- title: CV
+  href: cv.html

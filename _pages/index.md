@@ -6,12 +6,14 @@ narrow: true
 
 {% include components/intro.md %}
 
-### [More about Goktug]({{ site.baseurl}}{% link _pages/about.md %})
+To learn more about me, visit [this page]({{ site.baseurl}}{% link _pages/about.md %}).
 
-### Recent Posts
+<hr />
 
-{% for post in site.posts limit:3 %}
-{% include components/post-card.html %}
-{% endfor %}
+:mailbox: __Updates:__
 
+* I will be one of the teaching assistants for [CS 136: Elementary Algorithm Design and Data Abstraction](https://www.student.cs.uwaterloo.ca/~cs136/) over the Fall 2018 term.
 
+<hr />
+
+Last update: August 2018
