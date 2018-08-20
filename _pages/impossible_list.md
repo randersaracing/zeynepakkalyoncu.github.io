@@ -27,7 +27,7 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 
 #### Other
 
-* __Meditate for >=10 minutes everyday (2018-Q3)__
+* __Meditate for ≥ 10 minutes everyday (2018-Q3)__
 * Take up ice-skating (again)
 * Learn aerial yoga
 * Do a headstand
@@ -49,7 +49,7 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 * Graduate with Master's degree
 * Teach a university class
 * Have an internship abroad
-* __Study a paper every week (2018-Q3)__
+* Study a paper every week
 
 #### Experiences
 
@@ -80,11 +80,6 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 
 ### Hobbies :musical_score:
 
-#### Programming
-
-* Create an online course
-* Launch a side business
-
 #### Languages
 
 * Become fluent in (C1-C2)
@@ -97,6 +92,7 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 
 #### Music
 
+* __Practice the ukulele everyday for ≥ 15 minutes (2018-Q3)__
 * Complete the #100daysofpractice challenge
 * Play Zigeunerweisen on the violin
 * Pass ABRSM
@@ -123,3 +119,9 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 * Start a scholarship fund
 * Start a non-profit
 * Have a school built in an underprivileged country
+
+#### Miscellaneous
+
+* Create an online course
+* Launch a side business
+* Learn how to do quick mental health
