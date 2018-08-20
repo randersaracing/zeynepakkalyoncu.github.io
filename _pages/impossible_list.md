@@ -92,7 +92,7 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 
 #### Music
 
-* __Practice the ukulele everyday for ≥ 15 minutes (2018-Q3)__
+* __Practice the ukulele everyday for ≥ 10 minutes (2018-Q3)__
 * Complete the #100daysofpractice challenge
 * Play Zigeunerweisen on the violin
 * Pass ABRSM
