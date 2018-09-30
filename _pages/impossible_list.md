@@ -11,7 +11,7 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 
 #### Training
 
-* __Squat my body weight (2018-Q3)__
+* Squat my body weight
 * Run 5k without stopping
 * Run 10k
 * Deadlift 2x my body weight
@@ -27,7 +27,7 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 
 #### Other
 
-* __Meditate for ≥ 10 minutes everyday (2018-Q3)__
+* Meditate for ≥ 10 minutes everyday
 * Take up ice-skating (again)
 * Learn aerial yoga
 * Do a headstand
@@ -37,7 +37,7 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 #### Random
 
 * Have a protégé
-* Become financially independent before 35
+* Become financially independent
 * Design and have our dream home built
 * Create sustainable living on a tiny island
 * Engage in [Rejection Therapy](https://www.rejectiontherapy.com/100-days-of-rejection-therapy/)
@@ -46,10 +46,10 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 #### Academic / Professional
 
 * _Graduate college [10.06.2017]_
-* Graduate with Master's degree
+* Graduate with a Master's degree
 * Teach a university class
 * Have an internship abroad
-* Study a paper every week
+* Study a new paper every week
 
 #### Experiences
 
@@ -92,7 +92,7 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 
 #### Music
 
-* __Practice the ukulele everyday for ≥ 10 minutes (2018-Q3)__
+* Practice the ukulele everyday for ≥ 10 minutes
 * Complete the #100daysofpractice challenge
 * Play Zigeunerweisen on the violin
 * Pass ABRSM
@@ -114,14 +114,7 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 
 #### Community
 
-* Film short movie about women in STEM
 * Create an online community
 * Start a scholarship fund
 * Start a non-profit
 * Have a school built in an underprivileged country
-
-#### Miscellaneous
-
-* Create an online course
-* Launch a side business
-* Learn how to do quick mental health
