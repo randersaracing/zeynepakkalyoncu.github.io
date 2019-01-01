@@ -11,24 +11,28 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 
 #### Training
 
-* Squat my body weight
+* *Squat 1.5x my body weight*
 * Run 5k without stopping
 * Run 10k
+* *Deadlift 1.5x my body weight [Q1]*
 * Deadlift 2x my body weight
-* Reach 20% body fat
+* *Reach 20% body fat*
+* *Do one unassisted pull-up*
 * Do 10 pull-ups in a row
 * Achieve resting heart rate of 50 BPM
 
 #### Diet
 
 * _Become a pescaterian [01.01.2017]_
+* *Go vegetarian [Q1]*
 * Become a vegan for a month
 * Go without sugar for a month
 
 #### Other
 
-* Meditate for ≥ 10 minutes everyday
-* Take up ice-skating (again)
+* *Meditate for ≥ 10 minutes everyday [Q1]*
+* *Take up ice-skating (again) [Q1]*
+* *Go to swing classes with G [Q1]*
 * Learn aerial yoga
 * Do a headstand
 
@@ -46,6 +50,8 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 #### Academic / Professional
 
 * _Graduate college [10.06.2017]_
+* *Submit my first paper [Q1]*
+* *Publish my first paper*
 * Graduate with a Master's degree
 * Teach a university class
 * Have an internship abroad
@@ -64,7 +70,7 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 
 ### Travel :airplane:
 
-* Live abroad for a year
+* *Live abroad for a year*
 * Stay at an ice hotel
 * Ride in a hot air balloon
 * Set foot all continents
@@ -83,17 +89,18 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 #### Languages
 
 * Become fluent in (C1-C2)
-  * French
+  * *French*
   * Russian
   * German
 * Reach an intermediate level at (B1-B2)
+  * *Chinese*
   * Japanese
   * Finnish
 
 #### Music
 
 * Practice the ukulele everyday for ≥ 10 minutes
-* Complete the #100daysofpractice challenge
+* *Complete the #100daysofpractice challenge*
 * Play Zigeunerweisen on the violin
 * Pass ABRSM
   * Grade 5 with distinction
@@ -112,8 +119,10 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 * Create & ship physical product
 * Sew entire wardrobe by self
 
-#### Community
+#### Social / Community
 
+* *Throw 5 house parties in a year*
+* *Start a local community [Q1]*
 * Create an online community
 * Start a scholarship fund
 * Start a non-profit
