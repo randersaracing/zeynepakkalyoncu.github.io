@@ -14,8 +14,7 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 * *Squat 1.5x my body weight*
 * Run 5k without stopping
 * Run 10k
-* *Deadlift 1.5x my body weight [Q1]*
-* Deadlift 2x my body weight
+* *Deadlift 2x my body weight*
 * *Reach 20% body fat*
 * *Do one unassisted pull-up*
 * Do 10 pull-ups in a row
@@ -122,7 +121,7 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 #### Social / Community
 
 * *Throw 5 house parties in a year*
-* *Start a local community [Q1]*
+* *Start a local community*
 * Create an online community
 * Start a scholarship fund
 * Start a non-profit
