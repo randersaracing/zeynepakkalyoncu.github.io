@@ -16,4 +16,4 @@ To learn more about me, visit [this page]({{ site.baseurl}}{% link _pages/about.
 
 <hr />
 
-Last update: August 2018
+Last update: January 2019
