@@ -27,7 +27,7 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 * Become a vegan for a month
 * Go without sugar for a month
 
-#### Other
+### Skills
 
 * *Meditate for ≥ 10 minutes everyday [Q1]*
 * *Take up ice-skating (again) [Q1]*
@@ -126,3 +126,7 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 * Start a scholarship fund
 * Start a non-profit
 * Have a school built in an underprivileged country
+
+#### Other
+
+* *Don't purchase clothes from fast fashion stores for a year*
