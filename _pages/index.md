@@ -12,7 +12,7 @@ To learn more about me, visit [this page]({{ site.baseurl}}{% link _pages/about.
 
 :mailbox: __Updates:__
 
-* I will be the teaching assistant for [CS 638: Principles of Data Management and Use](https://cs.uwaterloo.ca/~tozsu/courses/CS638/) over the Fall 2018 term.
+* * I will be the teaching assistant for [CS 330: Management Information Systems](https://cs.uwaterloo.ca/current/courses/course_descriptions/cDescr/newCDescr/CS330) over the Winter 2019 term.
 
 <hr />
 
