@@ -11,27 +11,29 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 
 #### Training
 
-* *Squat 1.5x my body weight*
-* Run 5k without stopping
-* Run 10k
-* *Deadlift 2x my body weight*
-* *Reach 20% body fat*
-* *Do one unassisted pull-up*
+* Squat 1.5x my body weight
+* Deadlift 2x my body weight
+* *Run a 5k without stopping [Q2]*
+* Run a 10k
+* Do one unassisted pull-up
 * Do 10 pull-ups in a row
 * Achieve resting heart rate of 50 BPM
+* Reach 20% body fat
 
 #### Diet
 
 * _Become a pescaterian [01.01.2017]_
-* *Go vegetarian [Q1]*
-* Become a vegan for a month
+* _Become a vegetarian [01.01.2019]_
+* Go vegan for a month
 * Go without sugar for a month
 
 ### Skills
 
-* *Meditate for ≥ 10 minutes everyday [Q1]*
-* *Take up ice-skating (again) [Q1]*
-* *Go to swing classes with G [Q1]*
+* _Meditate for ≥ 10 minutes everyday for three months [04.01.2019]_
+* _Take up ice-skating (again) [01.24.2019]_
+* Enroll in an adult figure skating class
+* _Learn basic swing dancing with Goktug [03.25.2019]_
+* *Learn basic lindy hop with Goktug [Q2]*
 * Learn aerial yoga
 * Do a headstand
 
@@ -39,22 +41,21 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 
 #### Random
 
-* Have a protégé
 * Become financially independent
-* Design and have our dream home built
 * Create sustainable living on a tiny island
+* Design and build our dream home
 * Engage in [Rejection Therapy](https://www.rejectiontherapy.com/100-days-of-rejection-therapy/)
 * Take a photo everyday for a year
+* Have a protégé
 
 #### Academic / Professional
 
 * _Graduate college [10.06.2017]_
-* *Submit my first paper [Q1]*
-* *Publish my first paper*
+* _Submit my first paper [02.26.2019]_
+* *Publish my first paper [Q2]*
 * Graduate with a Master's degree
 * Teach a university class
-* Have an internship abroad
-* Study a new paper every week
+* Do a research internship in industry
 
 #### Experiences
 
@@ -66,13 +67,15 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 * Grow edible things at home
 * Participate in Hacktoberfest
 * Participate in Burning Man
+* Sew entire wardrobe by self
+* Don't purchase clothes from fast fashion stores for a year
 
 ### Travel :airplane:
 
-* *Live abroad for a year*
+* *Live abroad for a year [Q2]*
 * Stay at an ice hotel
 * Ride in a hot air balloon
-* Set foot all continents
+* Set foot on all continents
 * See the Northern lights
 * Backpack across a country for a month
 * Go on a [Trans-Mongolian journey](http://www.trans-siberia.com/my1997tour.html)
@@ -82,25 +85,30 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
   * Japan
   * Scotland
   * Iceland
+* See more of Canada
+  * _Toronto_
+  * Montreal
+  * Ottawa
+  * Niagara Falls
+  * Vancouver
 
 ### Hobbies :musical_score:
 
 #### Languages
 
 * Become fluent in (C1-C2)
-  * *French*
+  * *French [Q2]*
   * Russian
-  * German
 * Reach an intermediate level at (B1-B2)
-  * *Chinese*
+  * Chinese
   * Japanese
   * Finnish
+  * German
 
 #### Music
 
-* Practice the ukulele everyday for ≥ 10 minutes
-* *Complete the #100daysofpractice challenge*
-* Play Zigeunerweisen on the violin
+* Join an orchestra in K/W
+* *Complete the #100daysofpractice challenge [Q2]*
 * Pass ABRSM
   * Grade 5 with distinction
   * Grade 8
@@ -113,20 +121,11 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 * Write an e-book
 * Start and maintain a book club for a quarter
 
-#### Design
-
-* Create & ship physical product
-* Sew entire wardrobe by self
-
 #### Social / Community
 
-* *Throw 5 house parties in a year*
-* *Start a local community*
+* Start a local community
 * Create an online community
 * Start a scholarship fund
 * Start a non-profit
 * Have a school built in an underprivileged country
 
-#### Other
-
-* *Don't purchase clothes from fast fashion stores for a year*

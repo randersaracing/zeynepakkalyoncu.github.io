@@ -12,10 +12,10 @@ narrow: true
 
 ♟️ I played for the Turkish National Junior Chess Team for two years, and one of Turkey's best teams for over five years. Although I no longer play chess professionally, I still enjoy a good game every now and then.
 
-:earth_americas: I am an avid traveler, fascinated by what the world has to offer. Below is a map of the few places that I've explored so far.
+:earth_americas: I am an avid traveler, fascinated by what the world has to offer. Below is a map of the few places that I've explored so far. I'm hoping to see more of Canada over the next few years!
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1WHFbYuAuP45ayPShIA9ptonkiPXSoITZ" width="640" height="480" display="block"></iframe>
 
 <hr />
 
-Last update: August 2018
+Last update: May 2019

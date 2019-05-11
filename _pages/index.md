@@ -12,8 +12,8 @@ To learn more about me, visit [this page]({{ site.baseurl}}{% link _pages/about.
 
 :mailbox: __Updates:__
 
-* I will be the teaching assistant for [CS 330: Management Information Systems](https://cs.uwaterloo.ca/current/courses/course_descriptions/cDescr/newCDescr/CS330) over the Winter 2019 term.
+* I will be one of the teaching assistants for CS 475/675: Computational Linear Algebra over the Spring 2019 term. See [Piazza](https://piazza.com/uwaterloo.ca/spring2019/cs475675) for my office hours.
 
 <hr />
 
-Last update: January 2019
+Last update: May 2019
