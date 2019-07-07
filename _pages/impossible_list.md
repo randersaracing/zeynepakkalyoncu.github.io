@@ -12,7 +12,7 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 #### Music
 
 * Join an orchestra in K/W
-* *Complete the #100daysofpractice challenge [Q2]*
+* *Complete the #100daysofpractice challenge [Q3]*
 * Pass ABRSM
   * Grade 5 with distinction
   * Grade 8
@@ -21,12 +21,12 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 
 * Squat 1.5x my body weight
 * Deadlift 2x my body weight
-* *Run a 5k without stopping [Q2]*
+* *Run a 5k without stopping [Q3]*
 * Run a 10k
-* _Take up ice-skating (again) [01.24.2019]_
+* _Take up ice-skating [01.24.2019]_
 * Enroll in an adult figure skating class
 * _Learn basic swing dancing with Goktug [03.25.2019]_
-* *Learn basic lindy hop with Goktug [Q2]*
+* _Learn basic lindy hop with Goktug [05.10.2019]_
 * Learn aerial yoga
 * Do a headstand
 * Do one unassisted pull-up
@@ -40,12 +40,12 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 * _Become a vegetarian [01.01.2019]_
 * _Meditate for ≥ 10 minutes everyday for three months [04.01.2019]_
 * Go vegan for a month
-* Go without sugar for a month
+* *Go without sugar for a month [Q3]*
 
 #### Languages
 
 * Become fluent in (C1-C2)
-  * *French [Q2]*
+  * *French [Q3]*
   * Russian
 * Reach an intermediate level at (B1-B2)
   * Chinese
@@ -59,7 +59,6 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 
 * _Graduate college [10.06.2017]_
 * _Submit my first paper [02.26.2019]_
-* *Publish my first paper [Q2]*
 * Graduate with a Master's degree
 * Teach a university class
 * Do a research internship in industry
@@ -77,7 +76,7 @@ An [Impossible List](https://impossiblehq.com/impossible-list/) is essentially a
 
 ### Travel :airplane:
 
-* *Live abroad for a year [Q2]*
+* _Live abroad for a year [08.01.2019]_
 * Stay at an ice hotel
 * Ride in a hot air balloon
 * Set foot on all continents
