@@ -12,6 +12,8 @@ To learn more about me, visit [this page]({{ site.baseurl}}{% link _pages/about.
 
 :mailbox: __Updates:__
 
+* I am looking for a research internship in deep learning for natural language processing and/or information retrieval for Fall 2019. Please let me know if you are aware of any opportunities.
+
 * I am going to be one of the teaching assistants for CS 475/675: Computational Linear Algebra over the Spring 2019 term. See [Piazza](https://piazza.com/uwaterloo.ca/spring2019/cs475675) for my office hours.
 
 <hr />
